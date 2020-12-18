@@ -7,7 +7,7 @@ pagehtml = """
 <head>
   <meta charset="utf-8">
 
-  <title>The Schooner</title>
+  <title>Deana's The Schooner</title>
   <meta name="description" content="The Schooner">
   <meta name="author" content="Kristofer">
 
@@ -34,7 +34,7 @@ h1, h2, strong {
 </head>
 
 <body>
-  <h2>The Schooner</h2>
+  <h2>Deana's Schooner</h2>
   <p><img src="http://www.marinemodelartist.com/Mary_Taylor/Mary_Taylor_files/shapeimage_4.png"</p>
 <p>This is a schooner.</p>
 
